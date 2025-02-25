@@ -1,6 +1,7 @@
 Documentation
 
 1. The Dog API
+
  The API gives data on dog breeds: names, breed groups, life spans, temperaments, and origins.
 
  Used the /v1/breeds endpoint.
